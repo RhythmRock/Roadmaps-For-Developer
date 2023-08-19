@@ -67,4 +67,4 @@ You can also view the roadmaps directly on the [roadmap.sh](https://roadmap.sh) 
 
 ## License
 
-All projects in this repository are open source and do not have any proprietary licenses.
+This repository is open source and do not have any proprietary license.
