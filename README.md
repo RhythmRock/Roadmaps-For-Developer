@@ -46,18 +46,7 @@ To access the Excel spreadsheet containing all roadmaps, click the following but
 
 ## View Roadmaps Online
 
-You can also view the roadmaps directly on the [roadmap.sh](https://roadmap.sh) website. Here are some of the roadmaps available:
-
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)
-- [UX Design Roadmap](https://roadmap.sh/ux-design)
-- [Full Stack Roadmap](https://roadmap.sh/full-stack)
-- [C++ Roadmap](https://roadmap.sh/cpp)
-- [Python Roadmap](https://roadmap.sh/python)
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
-- [TypeScript Roadmap](https://roadmap.sh/typescript)
-- [SQL Roadmap](https://roadmap.sh/sql)
-- [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
+You can also view the roadmaps directly on the [roadmap.sh](https://roadmap.sh) website. Here are some of the roadmaps available
 
 <br>
 
